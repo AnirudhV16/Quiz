@@ -1,4 +1,4 @@
-INSERT INTO questions (question_text, option_a, option_b, option_c, option_d, correct_option, quiz_id)
+INSERT INTO questions (questionText, optionA, optionB, optionC, optionD, correctOption, quizId)
 VALUES 
 ('Which is the longest river in the world?', 'Nile', 'Amazon', 'Yangtze', 'Ganga', 'A', 1),
 
