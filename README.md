@@ -34,12 +34,11 @@ A Spring Boot REST API for a quiz application with multiple-choice questions, su
 ## Project Structure
 
 src/main/java/com/quiz/
-
-├── controller/ # REST controllers
-├── dto/ # Data transfer objects
-├── entity/ # JPA entities
-├── repository/ # Data access layer
-└── service/ # Business logic
+- controller/        # REST controllers
+- dto/               # Data transfer objects
+- entity/            # JPA entities
+- repository/        # Data access layer
+- service/           # Business logic
 
 -----
 
